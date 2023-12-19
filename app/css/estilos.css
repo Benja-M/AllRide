@@ -38,34 +38,34 @@ body {
 }
 
 .present{
-    background-image: url("/imagenes/back1.png");
+    background-image: url("/app/imagenes/back1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .act{
-    background-image: url("/imagenes/back2.png");
+    background-image: url("/app/imagenes/back2.png");
     background-position: center;
     background-size: cover;
 }
 
 .active{
-    background-image: url("/imagenes/back3.png");
+    background-image: url("/app/imagenes/back3.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .comidas{
-    background-image: url("/imagenes/back4.png");
+    background-image: url("/app/imagenes/back4.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .formu{
-    background-image: url("/imagenes/back5.png");
+    background-image: url("/app/imagenes/back5.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
