@@ -1,7 +1,7 @@
 
 {
     "name": "AllRide", 
-    "background_color":"#8b76b5",
+    "background_color":"#001525",
     "description": "Es una app con fines académicos.",
     "display": "standalone",
     "lang": "es",
@@ -10,7 +10,7 @@
     "orientation": "portrait",
     "start_url": "https://benja-m.github.io/AllRide/app/index.html",
     "scope": "/app",
-    "theme_color": "#a32a26",
+    "theme_color": "#C2f700",
     "icons": [
   {
    "src": "iconos/android-icon-36x36.png",
