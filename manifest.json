@@ -9,7 +9,7 @@
     "id": "https://benja-m.github.io/AllRide/app/index.html",
     "orientation": "portrait",
     "start_url": "https://benja-m.github.io/AllRide/app/index.html",
-    "scope": "app/",
+    "scope": "/app/",
     "theme_color": "#C2f700",
     "icons": [
   {
