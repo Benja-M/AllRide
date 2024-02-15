@@ -45,20 +45,20 @@ body {
 }
 
 .act{
-    background-image: url("imagenes/back2.png");
+    background-image: url("../imagenes/back2App.png");
     background-position: center;
     background-size: cover;
 }
 
 .active{
-    background-image: url("imagenes/back3.png");
+    background-image: url("imagenes/back3App.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .comidas{
-    background-image: url("/imagenes/back4.png");
+    background-image: url("/imagenes/back4App.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
