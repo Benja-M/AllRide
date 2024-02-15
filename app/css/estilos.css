@@ -38,7 +38,7 @@ body {
 }
 
 .present{
-    background-image: url("../imagenes/back1App.png");
+    background-image: url("./imagenes/back1App.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
