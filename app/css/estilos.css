@@ -4,17 +4,17 @@ body {
 
 @font-face{
     font-family: Dessert;
-    src: url('Fonts/DessertScript.otf');
+    src: url('../Fonts/DessertScript.otf');
 }
 
 @font-face{
     font-family: Roboto;
-    src: url('Fonts/Roboto-Regular.ttf');
+    src: url('../Fonts/Roboto-Regular.ttf');
 }
 
 @font-face{
     font-family: RobotoI;
-    src: url('Fonts/Roboto-Italic.ttf');
+    src: url('../Fonts/Roboto-Italic.ttf');
 }
 .bg1 {
     background-color: #b9e3f3;
@@ -32,40 +32,40 @@ body {
     width: 80px;
     height: 80px;
     font-size: 0;
-    background: url("../imagenes/logoApp.png");
+    background: url("../imagenes/logo.png");
     background-repeat: no-repeat;
     margin: auto;
 }
 
 .present{
-    background-image: url("./imagenes/back1App.png");
+    background-image: url("../imagenes/back1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .act{
-    background-image: url("../imagenes/back2App.png");
+    background-image: url("../imagenes/back2.png");
     background-position: center;
     background-size: cover;
 }
 
 .active{
-    background-image: url("imagenes/back3App.png");
+    background-image: url("../imagenes/back3.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .comidas{
-    background-image: url("/imagenes/back4App.png");
+    background-image: url("../imagenes/back4.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .formu{
-    background-image: url("/imagenes/back5.png");
+    background-image: url("../imagenes/back5.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -121,7 +121,7 @@ body {
 }
 
 .img4{
-    margin-left: 90px;
+    margin-left: 150px;
     height: 350px;
 }
 
