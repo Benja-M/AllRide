@@ -38,20 +38,20 @@ body {
 }
 
 .present{
-    background-image: url("img/back1App.png");
+    background-image: url("img/bg5.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .act{
-    background-image: url("img/back2App.png");
+    background-image: url("./img/bg5.png");
     background-position: center;
     background-size: cover;
 }
 
 .active{
-    background-image: url("img/back3App.png");
+    background-image: url("/bg5.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
