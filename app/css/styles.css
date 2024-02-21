@@ -32,40 +32,40 @@ body {
     width: 80px;
     height: 80px;
     font-size: 0;
-    background: url("img/logoApp.png");
+    background: url("../img/logoApp.png");
     background-repeat: no-repeat;
     margin: auto;
 }
 
 .present{
-    background-image: url("../imagenes/back1.png");
+    background-image: url("../img/back1App.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .act{
-    background-image: url("../imagenes/back2.png");
+    background-image: url("../img/back2App.png");
     background-position: center;
     background-size: cover;
 }
 
 .active{
-    background-image: url("../imagenes/back3.png");
+    background-image: url("../img/back3App.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .comidas{
-    background-image: url("../imagenes/back4.png");
+    background-image: url("../img/back4App.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .formu{
-    background-image: url("../imagenes/back5.png");
+    background-image: url("../img/back5App.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
