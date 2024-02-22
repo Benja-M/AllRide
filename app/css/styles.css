@@ -77,6 +77,10 @@ body {
     
 }
 
+.txtApp{
+    color: white;
+}
+
 .casas{
     
     font-family: RobotoI !important; 
@@ -188,7 +192,6 @@ body {
 
 section {
     display: none;
-    margin-bottom: 3.5rem;
 }
 
 
