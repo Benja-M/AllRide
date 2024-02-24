@@ -4,17 +4,17 @@ body {
 
 @font-face{
     font-family: Dessert;
-    src: url('./Fonts/DessertScript.otf');
+    src: url('../Fonts/DessertScript.otf');
 }
 
 @font-face{
     font-family: Roboto;
-    src: url('./Fonts/Roboto-Regular.ttf');
+    src: url('../Fonts/Roboto-Regular.ttf');
 }
 
 @font-face{
     font-family: RobotoI;
-    src: url('./Fonts/Roboto-Italic.ttf');
+    src: url('../Fonts/Roboto-Italic.ttf');
 }
 
 .bg-header, nav {
@@ -101,8 +101,8 @@ body {
 .texto2 h1{
     color: #C2F700;
     font-family: Dessert;
-    font-size: 3.2rem;
-    text-align: center;
+font-size: 3.2rem;
+text-align: center;
 }
 
 .texto2 h2{
@@ -219,7 +219,7 @@ span:target + section {
 }
 
 .formulario{
-    padding: 20px 25px;
+    
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     background-color: #00152579;
     border-radius: 20px;
@@ -297,7 +297,8 @@ span:target + section {
     }
     .img3{
         margin-top: 50px;
-        height: 250px;
+        margin-bottom: 30px;
+        height: 270px;
         display: block;
         margin-left: auto;
         margin-right: auto;
