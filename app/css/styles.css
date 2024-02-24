@@ -4,12 +4,12 @@ body {
 
 @font-face{
     font-family: Dessert;
-    src: url('../Fonts/DessertScript.otf');
+    src: url('./Fonts/DessertScript.otf');
 }
 
 @font-face{
     font-family: Roboto;
-    src: url('../Fonts/Roboto-Regular.ttf');
+    src: url('./Fonts/Roboto-Regular.ttf');
 }
 
 @font-face{
@@ -111,7 +111,7 @@ body {
 
 .img1{
     margin-left: 140px;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .img2{
@@ -121,7 +121,7 @@ body {
 
 .img4{
     margin-bottom: 40px;
-    margin-left: 90px;
+    margin-left: 50px;
     height: 500px;
 }
 
@@ -284,13 +284,13 @@ span:target + section {
 @media screen and (min-width: 320px) and (max-width: 575px){
 
     .img1{
-            height: 350px;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
+        height: 350px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
     .img2{
-        height: 350px;
+    height: 350px;
     display: block;
     margin-left: auto;
     margin-right: auto;
