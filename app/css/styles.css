@@ -250,6 +250,7 @@ span:target + section {
 
 .imput input, .imput textarea{
     background-color: #0015259e;
+    color: #c2f700;
 }
 
 .txt{
