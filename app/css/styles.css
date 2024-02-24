@@ -271,23 +271,22 @@ span:target + section {
 
 
     .formulario{
-        padding: 50px 30px;
-        width: 100%;
+    width: 100%;
 
     }
 
     .txt{
-        padding:15px;
+    padding:15px;
     }
 }
 
 @media screen and (min-width: 320px) and (max-width: 575px){
 
     .img1{
-        height: 350px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     }
     .img2{
     height: 350px;
@@ -296,12 +295,12 @@ span:target + section {
     margin-right: auto;
     }
     .img3{
-        margin-top: 50px;
-        margin-bottom: 30px;
-        height: 270px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    height: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     }
     .texto1{
         margin: 0;
