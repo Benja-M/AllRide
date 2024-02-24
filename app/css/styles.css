@@ -14,14 +14,7 @@ body {
 
 @font-face{
     font-family: RobotoI;
-    src: url('../Fonts/Roboto-Italic.ttf');
-}
-.bg1 {
-    background-color: #b9e3f3;
-}
-
-.bg2 {
-    background-color: white;
+    src: url('./Fonts/Roboto-Italic.ttf');
 }
 
 .bg-header, nav {
@@ -118,6 +111,7 @@ body {
 
 .img1{
     margin-left: 140px;
+    margin-top: 50px;
 }
 
 .img2{
@@ -126,8 +120,9 @@ body {
 }
 
 .img4{
+    margin-bottom: 40px;
     margin-left: 90px;
-    height: 350px;
+    height: 500px;
 }
 
 .txtContact{
