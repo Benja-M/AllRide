@@ -75,11 +75,9 @@ body {
 }
 
 .casas{
-    
     font-family: RobotoI !important; 
     color:#C2F700 !important;
     font-size: 80px !important;
-    
 }
 
 .texto1 h1{
@@ -99,8 +97,8 @@ body {
 }
 
 .texto2 h1{
-    color: #C2F700;
-    font-family: Dessert;
+color: #C2F700;
+font-family: Dessert;
 font-size: 3.2rem;
 text-align: center;
 }
@@ -219,12 +217,15 @@ span:target + section {
 }
 
 .formulario{
-    
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
     background-color: #00152579;
     border-radius: 20px;
     text-align: center;
     width: 520%;
+}
+
+.Social{
+    margin-bottom: 40px;
 }
 
 .txtContact{
@@ -304,13 +305,13 @@ span:target + section {
     margin-right: auto;
     }
     .texto1{
-        margin: 0;
+    margin: 0;
     }
 
     .texto1 h1{
-        font-size: 70px;
-        text-align: center;
-        margin: 0;
+    font-size: 70px;
+    text-align: center;
+    margin: 0;
     }
     
     .texto1 h2{
@@ -319,23 +320,23 @@ span:target + section {
     }
     
     .texto1 p{
-        font-size: 120px;
-        text-align: center;
-        margin: 0;
+    font-size: 120px;
+    text-align: center;
+    margin: 0;
     }
     .navbar-expand .navbar-nav .nav-link{
-        padding: 0;
+    padding: 0;
     }
 
     .card-size{
-        max-width: 15%;
+    max-width: 15%;
     }
     .ms-4{
-        margin-left: -12px !important;
-        justify-content: center;
+    margin-left: -12px !important;
+    justify-content: center;
     }
     .card-sizes{
-        max-width: 100%;
+    max-width: 100%;
     }
 }
 
