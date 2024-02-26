@@ -177,6 +177,7 @@ text-align: center;
     background-color: none;
     text-align: center;
     border: 2px solid #C2F700;
+    color:#C2F700;
     flex: 1;
     display: flex;
     align-items: center;
